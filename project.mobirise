@@ -164,7 +164,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-site-overhead-1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-site-overhead-1-min-1.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
