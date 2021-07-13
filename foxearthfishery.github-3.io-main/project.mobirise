@@ -1,0 +1,963 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "3.4.6",
+    "versionPublish": "5.3.5",
+    "name": "Foxearth",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#3d8eb9",
+        "secondaryColor": "#3d8eb9",
+        "successColor": "#2969b0",
+        "infoColor": "#c0a375",
+        "warningColor": "#a38f84",
+        "dangerColor": "#c1c1c1",
+        "titleFont": "Droid Sans",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#7b7b7b",
+        "#3e3e3e"
+      ]
+    },
+    "scrollAnimation": "true",
+    "favicon": "@PROJECT_PATH@/assets/images/imageedit-3-8387877635.png",
+    "cookiesAlert": false,
+    "google-analytics": "",
+    "path": "@PROJECT_PATH@",
+    "uniqCompNum": 37,
+    "screenshot": "screenshot.png",
+    "siteUrl": "http://www.foxearthfishery.com",
+    "sitemapSwitcherAuto": "on",
+    "noImageResize": "true",
+    "html_before": "",
+    "headbody": "",
+    "botbody": "",
+    "sitemapSwitcher": "on",
+    "siteFonts": [],
+    "mbrsiteDomain": "nfehkuuvru",
+    "imageResize": false,
+    "robotsSwitcher": false,
+    "gdpr": false
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home | Foxearth Fisheries",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#272727"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#383838!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#404040"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#3d8eb9!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-m",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#404040",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/imageedit-2.png",
+              "height": 128,
+              "alt": "Foxearth Fisheries",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://gallery.foxearthfishery.com\" aria-expanded=\"false\">CATCH GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-l\" aria-expanded=\"false\">OUR LAKES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-s\" aria-expanded=\"false\">SITE FACILITIES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rules.html\" aria-expanded=\"false\">SITE RULES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#pricing-table1-0\">PRICING</a></li>"
+        },
+        {
+          "_name": "header1",
+          "_styles": {
+            "H1": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "header1-0",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-site-overhead-1.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.1"
+          },
+          "title": "FOXEARTH FISHERIES",
+          "text": "&nbsp; &nbsp; &nbsp;&nbsp;",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#slider-l\" data-toolbar=\"-mbrBtnMove\">Our Lakes</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"rules.html\" data-toolbar=\"-mbrBtnMove\">Site Rules</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#pricing-table1-0\" data-toolbar=\"-mbrBtnMove\">View Pricing</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": "8",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/pleasure-lake-2.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "overlayColor": "#7b7b7b",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Pleasure Lake",
+                "showText": true,
+                "text": "&nbsp;0.75 acres of land split into two sections with a bridge.\n<br>\n<br>This lake suits all anglers looking for either a day of catching large quantities of silver fish, or those looking to teach a youngster or even a day out fishing for their first carp.\n<br>\n<br>This is our Match/All Round lake. Well stocked with Roach, Rudd, Perch, Bream, Tench to 6lb, Crucians and Carp to 12lb.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/image1-1-960x540.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Specimen Lake",
+                "showText": true,
+                "text": "2 acres with 3 islands and beautiful reed lined banks and margins. 12 good sized swims that require pre booking are nicely spread around this picturesque lake. There are plenty of features to fish to in each swim including, open water, islands, margins, clay spots, gravel and silt. <br><br>This lake contains 225-250 immaculate carp ranging from mid doubles to 35lb+ these include mirror, common, grass and ghost\n<br>There is also a large head of pike (winter fishing only)\n<br><br>Although this lake is heavily stocked it is not a walk in the park by any means but if you are fortunate to catch one of its gems I’m sure you will not be disappointed<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/traditional-lake-2.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "overlayColor": "#000000",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Traditional Lake",
+                "showText": true,
+                "text": "The Traditional Lake has recently been transformed from a run-of-the-mill match lake to a stunning tench and crucian lake with the odd surprise thrown in.<br>\n<br>In previous years this lake has suffered with weed, leaving it un-fishable at times. After six months of digging and re-modelling, we have completed this lake. What used to be a weed ridden lake with an average depth of only three feet, it now has an average depth of 8 feet with interesting bars, holes and reed beds.<br>\n<br>Predominantly contains Tench and Crucians. Very large head of Tench, average weight 1-2lb, with some nice specimens coming out at 6lb+.<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "_anchor": "slider-l",
+          "articleLayout": false
+        },
+        {
+          "_inherit": "features3",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_anchor": "features6-s",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "gift",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#2969b0"
+            }
+          },
+          "title1": "Toilets and Showers",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Our toilets are free to use for all customers.<br>For the showers, pre-booking and a one-time fee of £2.50 is required to help with the water heating and sewage costs.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "hot-cup",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#2969b0"
+            }
+          },
+          "title2": "Vending Machines",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Our vending machines dispense a wide range of items, from bottled water to hot cups of coffee, even a few snacks. We have something for everyone!",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "shopping-bag",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#2969b0"
+            }
+          },
+          "title3": "Bait and Terminal Tackle",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "We stock anything from hooks, maggots and worms to the complete range of Munch baits. Just ask a member of staff or call Mark for more information!",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "sun",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#2969b0"
+            }
+          },
+          "title4": "24/7 Assistance",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Anything from photographing a capture to rescuing a snagged fish, or even getting some tips and advice, we have you covered.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            },
+            ".mbr-plan-price-desc": {
+              "color": "#3b3b3b"
+            },
+            ".mbr-plan-title P": {
+              "color": "#efefef"
+            },
+            ".mbr-plan-subtitle": {
+              "color": "#efefef"
+            },
+            "UL": {
+              "color": "#efefef"
+            }
+          },
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-0",
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "",
+            "secondType": "hidden",
+            "thirdType": "bg-primary",
+            "fourthType": "",
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "showButtons": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#303030",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#3d8eb9",
+            "overlayOpacity": 0.5
+          },
+          "title": "Specimen Carp Lake",
+          "subtitle": "Summer Season: 1st April until 30th October\n<br>Winter Season: 1st November until 31st March<br><br>Block Tickets Available",
+          "label1": "HOT!",
+          "title1": "Day Pass<br>",
+          "subtitle1": "",
+          "currency1": "£",
+          "price1": "10",
+          "period1": "&nbsp;Summer<br>£8 Winter<br>",
+          "description1": "",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">8am to 8pm</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"mailto:mark@foxearthfishery.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ENQUIRE</a>",
+          "label2": "",
+          "title2": "<p>Night Pass</p>",
+          "subtitle2": "Day Pass",
+          "currency2": "£",
+          "price2": "15",
+          "period2": "/pass",
+          "description2": "",
+          "list2": "<p>&nbsp; &nbsp; 8pm to 8am<br></p>",
+          "button2": "<a data-app-btn=\"true\" href=\"#top\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BOOK</a>",
+          "label3": "OUR PICK!",
+          "title3": "Evening Pass",
+          "subtitle3": "",
+          "currency3": "£",
+          "price3": "15",
+          "period3": "&nbsp;Summer<br>£10 Winter<br>",
+          "description3": "",
+          "list3": "8pm to 8am<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"mailto:mark@foxearthfishery.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ENQUIRE</a>",
+          "label4": "HOT!",
+          "title4": "<p>24 Hour Pass</p>",
+          "subtitle4": "",
+          "currency4": "£",
+          "price4": "20",
+          "period4": "&nbsp;Summer<br>£15 Winter<br>",
+          "description4": "",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">8am to 8am / 8pm to 8pm</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"mailto:mark@foxearthfishery.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ENQUIRE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-u",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">ENQUIRE ABOUT BOOKING</a> "
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            },
+            ".mbr-plan-price-desc": {
+              "color": "#3b3b3b"
+            },
+            ".mbr-plan-title P": {
+              "color": "#efefef"
+            },
+            ".mbr-plan-subtitle": {
+              "color": "#efefef"
+            },
+            "UL": {
+              "color": "#efefef"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-p",
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "bg-primary",
+            "secondType": "hidden",
+            "thirdType": "",
+            "fourthType": "",
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "showButtons": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#303030",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#3d8eb9",
+            "overlayOpacity": 0.5
+          },
+          "title": "Pleasure and Traditional Lakes",
+          "subtitle": "",
+          "label1": "OUR PICK!",
+          "title1": "Day Pass<br>",
+          "subtitle1": "1st April until 30th October",
+          "currency1": "£",
+          "price1": "10",
+          "period1": "&nbsp;/ Adult<br>£5 / Junior (U16)<br>£8 / Senior (Over 65)<br>",
+          "description1": "",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">8am to 8pm or dusk (whichever falls first)</li><li class=\"list-group-item\">Access for 1 day</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"mailto:mark@foxearthfishery.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ENQUIRE</a>",
+          "label2": "",
+          "title2": "<p>Night Pass</p>",
+          "subtitle2": "Day Pass",
+          "currency2": "£",
+          "price2": "15",
+          "period2": "/pass",
+          "description2": "",
+          "list2": "<p>&nbsp; &nbsp; 8pm to 8am<br></p>",
+          "button2": "<a data-app-btn=\"true\" href=\"#top\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BOOK</a>",
+          "label3": "OUR PICK!",
+          "title3": "Evening Pass",
+          "subtitle3": "1st April until 30th October",
+          "currency3": "£",
+          "price3": "5",
+          "period3": "&nbsp;/ Adult<br>£3 / Junior (U16)<br>£4 / Senior (Over 65)<br>",
+          "description3": "",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">4pm to 8pm or dusk (whichever falls first)</li><li class=\"list-group-item\">Access for 1 day</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"mailto:mark@foxearthfishery.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ENQUIRE</a>",
+          "label4": "HOT!",
+          "title4": "<p>Winter Pass</p>",
+          "subtitle4": "1st November until 31st March",
+          "currency4": "£",
+          "price4": "8",
+          "period4": "&nbsp;/ Adult<br>£4 / Junior (U16)<br>£6 / Senior (Over 65)<br>",
+          "description4": "",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">8am to 8pm or dusk (whichever falls first)</li><li class=\"list-group-item\">Access for 1 day</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"#top\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ENQUIRE</a>"
+        },
+        {
+          "_name": "contacts1",
+          "_anchor": "index-contacts1-0",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/imageedit-1.png",
+              "width": 128,
+              "active": true,
+              "link": "#top",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\nFoxearth Fishery Lodge<br>Glemsford Road<br>\nFoxearth<br>Sudbury<br>CO10 7GA",
+          "text2": "<b>Links</b><br><a href=\"index.html\" class=\"text-primary\">Homepage</a><br><a href=\"rules.html\" class=\"text-primary\">Site Rules</a><br>Catch Gallery",
+          "text3": "<b>Contact us at</b><br>foxearthfs@gmail.com<br>07811 954424<br>",
+          "_styles": {
+            "P": {
+              "color": "#cccccc"
+            }
+          }
+        }
+      ]
+    },
+    "rules.html": {
+      "settings": {
+        "meta_descr": "",
+        "title": "Site Rules | Foxearth Fisheries",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#272727"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#383838!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#404040"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#404040",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/imageedit-2.png",
+              "height": 128,
+              "alt": "Foxearth Fisheries",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://gallery.foxearthfishery.com\" aria-expanded=\"false\">CATCH GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-l\" aria-expanded=\"false\">OUR LAKES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-s\" aria-expanded=\"false\">SITE FACILITIES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rules.html\" aria-expanded=\"false\">SITE RULES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#pricing-table1-0\">PRICING</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "5",
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Site Rules",
+          "text": "<p>Please be sure to abide by the following site rules at all times</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<blockquote><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">These rules are here to protect you and our fish, and to ultimately allow you to have an enjoyable and safe experience. We hope that you enjoy your angling experience here. If you have any questions, queries or concerns, please do not hesitate to contact Mark on&nbsp;</span><a href=\"tel:+4477811954424\" style=\"font-size: 1.07rem; background-color: rgb(239, 239, 239); line-height: 1.5;\">+44 7811 954424</a><br></p></blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "23px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-z",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "This fishery is under 24-hour recorded CCTV and Surveillance. Anyone caught damaging or attempting to steal fish will be prosecuted.",
+          "meta": ""
+        },
+        {
+          "_params": {
+            "nbAccordion": "4",
+            "showTitle": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/accordion/deltapi.svg",
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5,
+            "accordions": [
+              {
+                "heading": "heading1",
+                "collapse": "collapse1",
+                "href": "#collapse1",
+                "active": true,
+                "title": "General Site Rules",
+                "text": ""
+              },
+              {
+                "heading": "heading2",
+                "collapse": "collapse2",
+                "href": "#collapse2",
+                "active": true,
+                "title": "Traditional Lake Rules",
+                "text": ""
+              },
+              {
+                "heading": "heading3",
+                "collapse": "collapse3",
+                "href": "#collapse3",
+                "active": true,
+                "title": "Specimen Lake Rules",
+                "text": "<div class=\"mbri-responsive mbr-iconfont\" style=\"font-size: 44px;\"> </div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": true,
+                "heading": "heading4",
+                "collapse": "collapse4",
+                "href": "#collapse4",
+                "title": "Pleasure Lake Rules",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              },
+              {
+                "active": false,
+                "heading": "heading5",
+                "collapse": "collapse5",
+                "href": "#collapse5",
+                "title": "",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis."
+              }
+            ]
+          },
+          "title": "",
+          "_styles": {
+            ".panel-body": {
+              "padding": "15px"
+            },
+            ".panel-group": {
+              "margin-bottom": "20px"
+            },
+            ".panel": {
+              "margin-bottom": "20px",
+              "background-color": "#fff",
+              "border": "1px solid transparent",
+              "border-radius": "4px",
+              "-webkit-box-shadow": "0 1px 1px rgba(0, 0, 0, .05)",
+              "box-shadow": "0px 1px 1px rgba(0,0,0,0.05)"
+            },
+            ".panel-default": {
+              "border-color": "#ddd"
+            },
+            ".panel-group .panel": {
+              "margin-bottom": "0px",
+              "border-radius": "4px"
+            },
+            ".panel-group .panel + .panel": {
+              "margin-top": "5px"
+            },
+            ".panel-heading": {
+              "padding": "10px 15px",
+              "border-bottom": "1px solid transparent",
+              "border-top-left-radius": "3px",
+              "border-top-right-radius": "3px"
+            },
+            ".panel-group .panel-heading": {
+              "border-bottom": "0"
+            },
+            ".panel-default > .panel-heading": {
+              "color": "#333",
+              "background-color": "#f5f5f5",
+              "border-color": "#ddd"
+            },
+            ".collapse": {
+              "display": "n1"
+            },
+            ".panel-group .panel-heading + .panel-collapse > .panel-body, .panel-group .panel-heading + .panel-collapse > .list-group": {
+              "border-top": "1px solid #ddd"
+            },
+            ".panel-default > .panel-heading + .panel-collapse > .panel-body": {
+              "border-top-color": "#ddd"
+            },
+            ".panel-title": {
+              "margin-top": "0px",
+              "margin-bottom": "0px",
+              "font-size": "16px",
+              "color": "inherit"
+            },
+            "[role=\"button\"]": {
+              "cursor": "pointer"
+            },
+            ".panel-title > a, .panel-title > small, .panel-title > .small, .panel-title > small > a, .panel-title > .small > a": {
+              "color": "inherit"
+            }
+          },
+          "alias": "accordion",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "accordion-block",
+          "_anchor": "accordion-block-4"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><i>PLEASURE AND TRADITIONAL LAKE RULES</i></b></p><p><b>1.</b> All Anglers must have a valid Environment Agency rod licence&nbsp;</p><p><b>2.</b> All Anglers must purchase the correct ticket on arrival</p><p><b>3. </b>Every Angler must be in possession of a suitably sized landing and unhooking mat</p><p><b>4.</b> 2 rods only on pleasure lake and 1 on traditional lake</p><p><b>5. </b>Barbless hooks only on these lakes</p><p><b>6.</b> Safety rigs and lead clips must be used if ledgering especially for the carp. The management reserve the right to check your rigs at any stage</p><p><b>7. </b>No fish over 2lb to be kept in keep nets</p><p><b>8.</b> No braided mainlines</p><p><b>9.</b> No nuts to be used whatsoever on these lakes</p><p><b>10.</b> Do not leave rods unattended (to cover yourself remember the environment Agency regulations)</p><p><b>11.</b> No fires allowed. Disposable Barbeques allowed on gravelled areas only</p><p><b>12.</b> Do not attempt to prune, cut or damage the trees and vegetation</p><p><b>13. </b>All litter is to be cleared from and around your swim and either taken with you or deposited in the bins provided</p><p><b>14. </b>Please keep noise to a minimum and respect other anglers</p><p><b>15.</b> Please do not interfere with the wildlife</p><p><b>16. </b>Please keep the gate into the lake area shut at all times</p><p><b>17. </b>Sorry, no dogs allowed</p><p><b>18. </b>We reserve the right to carry out maintenance at any time</p><p><b>19. </b>Anyone found taking or damaging fish will be prosecuted. Remember this fishery is under 24 hour recorded CCTV</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><i>SPECIMEN CARP LAKE RULES</i></b></p><p><b>1. </b>Every angler must be in posession of a valid Environment Agency license</p><p><b>2. </b>Every angler must be in posession of the correct ticket or paid prior to fishing</p><p><b>3. </b>No spectators or visitors after 8pm or dusk (whichever falls first), unless prior permission has been granted</p><p><b>4. </b>No one is to enter or leave the site between the hours of 9pm and 7am</p><p><b>5. </b>The gate code is to be given out by Management only, and not to anyone who is not booked on</p><p><b>6. </b>The gate must be closed and locked at all times, anyone seen leaving it open will be asked to leave the fishery</p><p><b>7. </b>Prior booking of swims is required to fish this lake, with pre-payment on weekends</p><p><b>8. </b>Every angler must be in possession of a landing net, minimum size 42-inch, and a large unhooking mat - preferably cradle or mat, with raised sides and a good amount of padding</p><p><b>9. </b>A retention sling must be used if you wish to remive the fish from the water, please do not lift the fish out in the net. Keep handling down to a minimum and return to the water ASAP</p><p><b>10.</b> A suitable carp care kit must be used on every hook hold and any damage spotted on the body</p><p><b>11. </b>If you have any snagged fish, please call a member of staff. We are more than happy to row out and rescue a fish at any time, please do not pull for a break</p><p><b>12. </b>All nets, slings, stink bags etc. must be completely dry on arrival. If they are not, please contact a member of staff for disinfecting of equipment before setting up</p><p><b>13. </b>Barbed or micro barbed hooks MUST be used and at a minimum size of 6</p><p>14. Minimum 12lb breaking strain line, no braided mainlines except for spod or marker</p><p>15. No leadcore leaders. Rig tubing or safezone leaders must be used where possible in conjunction with leadclips or free running rigs/leads</p><p>16. No sacking or retaining of fish. 10 minutes in a properly secured retention sling to rest the fish or prepare for photos is allowed if seen totally necessary</p><p>17. No fishing for any species other than carp unless prior permission is granted</p><p>18. No nuts to be used whatsoever</p><p>19. Fishing is limited to your booked swim only, anyone seen casting to another swim or past an island or feature will be removed immediately</p><p>20. Please do not damage the trees or vegetation</p><p>21. Please keep your swim tidy, take away as much rubbish as possible and use the provided bins</p><p>22. No fires allowed. Disposable BBQs can be used on suitable areas but please take them home with you, do not put them in the bins</p><p>Do not leave rods unattended, the swim next to you is the maximum distance we allow (exclusing swims 6 and 7)</p><p>23. Please keep noise and excessive drinking to a minimum and respect other anglers</p><p>24. No one under the age of 18 may fish this lake</p><p>25. No dogs are allowed</p><p>26. We reserve the right to carry out maintenance at any time</p><p>27. We reserve the right to check rigs and equipment at any time. Anyone breaking any rules will be made to leave the fishery with immediate effect, with no refund</p><p>28. Any fees paid are non-refundable. If you cancel your booking, you will lose the money you have paid</p>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_name": "contacts1",
+          "_anchor": "contacts1-1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/imageedit-3.png",
+              "width": 128,
+              "active": true,
+              "link": "#top",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\nFoxearth Fishery Lodge<br>Glemsford Road<br>\nFoxearth<br>Sudbury<br>CO10 7GA",
+          "text2": "<b>Links</b><br><a href=\"index.html\" class=\"text-primary\">Homepage</a><br><a href=\"rules.html\" class=\"text-primary\">Site Rules</a><br>Catch Gallery",
+          "text3": "<b>Contact us at</b><br>foxearthfs@gmail.com<br>07811 954424<br>",
+          "_styles": {
+            "P": {
+              "color": "#cccccc"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
