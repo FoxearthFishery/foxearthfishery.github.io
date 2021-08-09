@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "3.4.6",
-    "versionPublish": "5.3.5",
+    "versionPublish": "5.3.10",
     "name": "Foxearth",
     "theme": {
       "name": "mobirise3",
@@ -32,7 +32,7 @@
     "cookiesAlert": false,
     "google-analytics": "",
     "path": "@PROJECT_PATH@",
-    "uniqCompNum": 37,
+    "uniqCompNum": 42,
     "screenshot": "screenshot.png",
     "siteUrl": "http://www.foxearthfishery.com",
     "sitemapSwitcherAuto": "on",
@@ -42,10 +42,11 @@
     "botbody": "",
     "sitemapSwitcher": "on",
     "siteFonts": [],
-    "mbrsiteDomain": "nfehkuuvru",
+    "mbrsiteDomain": "x7eneh4vm0",
     "imageResize": false,
     "robotsSwitcher": false,
-    "gdpr": false
+    "gdpr": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -164,7 +165,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-site-overhead-1-min-1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-site-overhead-1.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -244,6 +245,179 @@
           },
           "_anchor": "slider-l",
           "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            },
+            ".mbr-plan-price-desc": {
+              "color": "#3b3b3b"
+            },
+            ".mbr-plan-title P": {
+              "color": "#efefef"
+            },
+            ".mbr-plan-subtitle": {
+              "color": "#efefef"
+            },
+            "UL": {
+              "color": "#efefef"
+            }
+          },
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-0",
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "",
+            "secondType": "hidden",
+            "thirdType": "bg-primary",
+            "fourthType": "",
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "showButtons": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#303030",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#3d8eb9",
+            "overlayOpacity": 0.5
+          },
+          "title": "Specimen Carp Lake",
+          "subtitle": "Summer Season: 1st April until 30th October\n<br>Winter Season: 1st November until 31st March<br><br>Block Tickets Available",
+          "label1": "HOT!",
+          "title1": "Day Pass<br>",
+          "subtitle1": "",
+          "currency1": "£",
+          "price1": "15",
+          "period1": "&nbsp;<br>",
+          "description1": "",
+          "list1": "8am-8pm",
+          "button1": "<a data-app-btn=\"true\" href=\"mailto:mark@foxearthfishery.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ENQUIRE</a>",
+          "label2": "",
+          "title2": "<p>Night Pass</p>",
+          "subtitle2": "Day Pass",
+          "currency2": "£",
+          "price2": "15",
+          "period2": "/pass",
+          "description2": "",
+          "list2": "<p>&nbsp; &nbsp; 8pm to 8am<br></p>",
+          "button2": "<a data-app-btn=\"true\" href=\"#top\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BOOK</a>",
+          "label3": "OUR PICK!",
+          "title3": "Night Pass",
+          "subtitle3": "",
+          "currency3": "£",
+          "price3": "20",
+          "period3": "",
+          "description3": "",
+          "list3": "8pm- 8am",
+          "button3": "<a data-app-btn=\"true\" href=\"mailto:mark@foxearthfishery.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ENQUIRE</a>",
+          "label4": "HOT!",
+          "title4": "<p>24 Hour Pass</p>",
+          "subtitle4": "",
+          "currency4": "£",
+          "price4": "30",
+          "period4": "&nbsp;<br>",
+          "description4": "",
+          "list4": "8am-8am or 8pm-8pm<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"mailto:mark@foxearthfishery.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ENQUIRE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            },
+            ".mbr-plan-price-desc": {
+              "color": "#3b3b3b"
+            },
+            ".mbr-plan-title P": {
+              "color": "#efefef"
+            },
+            ".mbr-plan-subtitle": {
+              "color": "#efefef"
+            },
+            "UL": {
+              "color": "#efefef"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-p",
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "bg-primary",
+            "secondType": "hidden",
+            "thirdType": "",
+            "fourthType": "",
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "showButtons": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#303030",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#3d8eb9",
+            "overlayOpacity": 0.5
+          },
+          "title": "Pleasure and Traditional Lakes",
+          "subtitle": "",
+          "label1": "OUR PICK!",
+          "title1": "Day Pass<br>",
+          "subtitle1": "1st April until 30th October",
+          "currency1": "£",
+          "price1": "10",
+          "period1": "&nbsp;/ Adult<br>£5 / Junior (U16)<br>£8 / Senior (Over 65)<br>",
+          "description1": "",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">8am to 8pm or dusk (whichever falls first)</li><li class=\"list-group-item\">Access for 1 day</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"mailto:mark@foxearthfishery.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ENQUIRE</a>",
+          "label2": "",
+          "title2": "<p>Night Pass</p>",
+          "subtitle2": "Day Pass",
+          "currency2": "£",
+          "price2": "15",
+          "period2": "/pass",
+          "description2": "",
+          "list2": "<p>&nbsp; &nbsp; 8pm to 8am<br></p>",
+          "button2": "<a data-app-btn=\"true\" href=\"#top\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BOOK</a>",
+          "label3": "OUR PICK!",
+          "title3": "Evening Pass",
+          "subtitle3": "1st April until 30th October",
+          "currency3": "£",
+          "price3": "5",
+          "period3": "&nbsp;/ Adult<br>£3 / Junior (U16)<br>£4 / Senior (Over 65)<br>",
+          "description3": "",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">4pm to 8pm or dusk (whichever falls first)</li><li class=\"list-group-item\">Access for 1 day</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"mailto:mark@foxearthfishery.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ENQUIRE</a>",
+          "label4": "HOT!",
+          "title4": "<p>Winter Pass</p>",
+          "subtitle4": "1st November until 31st March",
+          "currency4": "£",
+          "price4": "8",
+          "period4": "&nbsp;/ Adult<br>£4 / Junior (U16)<br>£6 / Senior (Over 65)<br>",
+          "description4": "",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">8am to 8pm or dusk (whichever falls first)</li><li class=\"list-group-item\">Access for 1 day</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"#top\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ENQUIRE</a>"
         },
         {
           "_inherit": "features3",
@@ -368,192 +542,6 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
-          "_styles": {
-            ".mbr-section__container .mbr-section-title": {
-              "color": "#ffffff"
-            },
-            ".mbr-section__container .mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            },
-            ".mbr-plan-price-desc": {
-              "color": "#3b3b3b"
-            },
-            ".mbr-plan-title P": {
-              "color": "#efefef"
-            },
-            ".mbr-plan-subtitle": {
-              "color": "#efefef"
-            },
-            "UL": {
-              "color": "#efefef"
-            }
-          },
-          "_name": "pricing-table1",
-          "_anchor": "pricing-table1-0",
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "firstType": "",
-            "secondType": "hidden",
-            "thirdType": "bg-primary",
-            "fourthType": "",
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "showButtons": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#303030",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#3d8eb9",
-            "overlayOpacity": 0.5
-          },
-          "title": "Specimen Carp Lake",
-          "subtitle": "Summer Season: 1st April until 30th October\n<br>Winter Season: 1st November until 31st March<br><br>Block Tickets Available",
-          "label1": "HOT!",
-          "title1": "Day Pass<br>",
-          "subtitle1": "",
-          "currency1": "£",
-          "price1": "10",
-          "period1": "&nbsp;Summer<br>£8 Winter<br>",
-          "description1": "",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">8am to 8pm</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"mailto:mark@foxearthfishery.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ENQUIRE</a>",
-          "label2": "",
-          "title2": "<p>Night Pass</p>",
-          "subtitle2": "Day Pass",
-          "currency2": "£",
-          "price2": "15",
-          "period2": "/pass",
-          "description2": "",
-          "list2": "<p>&nbsp; &nbsp; 8pm to 8am<br></p>",
-          "button2": "<a data-app-btn=\"true\" href=\"#top\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BOOK</a>",
-          "label3": "OUR PICK!",
-          "title3": "Evening Pass",
-          "subtitle3": "",
-          "currency3": "£",
-          "price3": "15",
-          "period3": "&nbsp;Summer<br>£10 Winter<br>",
-          "description3": "",
-          "list3": "8pm to 8am<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"mailto:mark@foxearthfishery.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ENQUIRE</a>",
-          "label4": "HOT!",
-          "title4": "<p>24 Hour Pass</p>",
-          "subtitle4": "",
-          "currency4": "£",
-          "price4": "20",
-          "period4": "&nbsp;Summer<br>£15 Winter<br>",
-          "description4": "",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">8am to 8am / 8pm to 8pm</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"mailto:mark@foxearthfishery.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ENQUIRE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-u",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">ENQUIRE ABOUT BOOKING</a> "
-        },
-        {
-          "_styles": {
-            ".mbr-section__container .mbr-section-title": {
-              "color": "#ffffff"
-            },
-            ".mbr-section__container .mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            },
-            ".mbr-plan-price-desc": {
-              "color": "#3b3b3b"
-            },
-            ".mbr-plan-title P": {
-              "color": "#efefef"
-            },
-            ".mbr-plan-subtitle": {
-              "color": "#efefef"
-            },
-            "UL": {
-              "color": "#efefef"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "pricing-table1",
-          "_anchor": "pricing-table1-p",
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "firstType": "bg-primary",
-            "secondType": "hidden",
-            "thirdType": "",
-            "fourthType": "",
-            "paddingTop": "1",
-            "paddingBottom": 3,
-            "showButtons": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#303030",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#3d8eb9",
-            "overlayOpacity": 0.5
-          },
-          "title": "Pleasure and Traditional Lakes",
-          "subtitle": "",
-          "label1": "OUR PICK!",
-          "title1": "Day Pass<br>",
-          "subtitle1": "1st April until 30th October",
-          "currency1": "£",
-          "price1": "10",
-          "period1": "&nbsp;/ Adult<br>£5 / Junior (U16)<br>£8 / Senior (Over 65)<br>",
-          "description1": "",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">8am to 8pm or dusk (whichever falls first)</li><li class=\"list-group-item\">Access for 1 day</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"mailto:mark@foxearthfishery.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ENQUIRE</a>",
-          "label2": "",
-          "title2": "<p>Night Pass</p>",
-          "subtitle2": "Day Pass",
-          "currency2": "£",
-          "price2": "15",
-          "period2": "/pass",
-          "description2": "",
-          "list2": "<p>&nbsp; &nbsp; 8pm to 8am<br></p>",
-          "button2": "<a data-app-btn=\"true\" href=\"#top\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BOOK</a>",
-          "label3": "OUR PICK!",
-          "title3": "Evening Pass",
-          "subtitle3": "1st April until 30th October",
-          "currency3": "£",
-          "price3": "5",
-          "period3": "&nbsp;/ Adult<br>£3 / Junior (U16)<br>£4 / Senior (Over 65)<br>",
-          "description3": "",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">4pm to 8pm or dusk (whichever falls first)</li><li class=\"list-group-item\">Access for 1 day</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"mailto:mark@foxearthfishery.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ENQUIRE</a>",
-          "label4": "HOT!",
-          "title4": "<p>Winter Pass</p>",
-          "subtitle4": "1st November until 31st March",
-          "currency4": "£",
-          "price4": "8",
-          "period4": "&nbsp;/ Adult<br>£4 / Junior (U16)<br>£6 / Senior (Over 65)<br>",
-          "description4": "",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">8am to 8pm or dusk (whichever falls first)</li><li class=\"list-group-item\">Access for 1 day</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"#top\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ENQUIRE</a>"
-        },
-        {
           "_name": "contacts1",
           "_anchor": "index-contacts1-0",
           "_params": {
@@ -592,6 +580,86 @@
               "color": "#cccccc"
             }
           }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-site-overhead-1.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.1"
+          },
+          "title": "FOXEARTH FISHERIES",
+          "text": "&nbsp; &nbsp; &nbsp;&nbsp;",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#slider-l\" data-toolbar=\"-mbrBtnMove\">Our Lakes</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"rules.html\" data-toolbar=\"-mbrBtnMove\">Site Rules</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#pricing-table1-0\" data-toolbar=\"-mbrBtnMove\">View Pricing</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            "H1": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "header1-14"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-site-overhead-1.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.1"
+          },
+          "title": "FOXEARTH FISHERIES",
+          "text": "&nbsp; &nbsp; &nbsp;&nbsp;",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#slider-l\" data-toolbar=\"-mbrBtnMove\">Our Lakes</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"rules.html\" data-toolbar=\"-mbrBtnMove\">Site Rules</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#pricing-table1-0\" data-toolbar=\"-mbrBtnMove\">View Pricing</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            "H1": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "header1-15"
         }
       ]
     },
