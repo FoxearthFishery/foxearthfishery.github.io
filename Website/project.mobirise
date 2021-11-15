@@ -28,7 +28,7 @@
       ]
     },
     "scrollAnimation": "true",
-    "favicon": "",
+    "favicon": false,
     "cookiesAlert": false,
     "google-analytics": "",
     "path": "@PROJECT_PATH@",
